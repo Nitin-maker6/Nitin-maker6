@@ -25,9 +25,6 @@
 
 ---
 
-## 📄 Resume
-👉 [View My Resume]
-
 ---
 
 ## 📫 Contact Me
