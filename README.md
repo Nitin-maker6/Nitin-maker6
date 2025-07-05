@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitin Rathi
 
-<!--
-**Nitin-maker6/Nitin-maker6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering student at **NIT Silchar** (2nd Year)  
+💡 Exploring **Programming**, **Electronics**, and **Core Electrical Concepts**  
+🎯 Goal: Build skills & projects for a good placement after B.Tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Learning Journey
+- ✅ Python (YouTube)
+- 🔜 C Programming Basics
+- ⚡ Arduino, Multisim, and Circuit Simulations
+
+---
+
+## 🛠️ Projects (beginner level)
+- 🔲 LED Blinking with Arduino *(Coming soon)*
+- 🔲 C Program: Calculator *(In progress)*
+
+---
+
+## 🏅 Certificates
+- 📜 NPTEL - Electrical Machines *(In Progress)*
+- 📜 Python Basics – *(YouTube)*
+
+---
+
+## 📄 Resume
+👉 [View My Resume]
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: thenitinrathi@gmail.com 
+---
+
+_Thanks for visiting my profile!_
